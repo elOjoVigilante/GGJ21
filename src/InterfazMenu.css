@@ -1,0 +1,22 @@
+div#boton{
+    margin-top: 450px;
+
+
+}
+
+div#boton2{
+    margin-top: 5px;
+}
+
+button#btnJugar{
+    width: 200px;
+}
+
+button#btnComoJuega{
+    width: 200px;
+}
+
+div#version{
+    margin-top: 135px; 
+    color: white;
+}

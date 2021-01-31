@@ -1,0 +1,14 @@
+textarea#message-text{
+    background-image: url(https://image.freepik.com/foto-gratis/papel-pergamino_53876-47160.jpg);
+    height: 150px;
+}
+
+div#botones{
+    margin-left: 322px;
+}
+
+button#btnCerrar{
+    margin-right: 5px;
+}
+
+
